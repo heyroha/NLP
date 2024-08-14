@@ -1,4 +1,4 @@
-# Basic of NLP
+# 🗣️Basic of NLP
 
 ## Install NLP
 - vscode 에서의 자연어 처리 설치
